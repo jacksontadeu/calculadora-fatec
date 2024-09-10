@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraFatec")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dc5c214fe394b244d7fe131bada16ebbb9b2465")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraFatec")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraFatec")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

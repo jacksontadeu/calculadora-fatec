@@ -12,3 +12,4 @@ D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\obj\Debug\net8.0\refint
 D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\obj\Debug\net8.0\CalculadoraFatec.pdb
 D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\obj\Debug\net8.0\CalculadoraFatec.genruntimeconfig.cache
 D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\obj\Debug\net8.0\ref\CalculadoraFatec.dll
+D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\obj\Debug\net8.0\CalculadoraFatec.sourcelink.json

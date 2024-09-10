@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{DE7D618B-BD51-4A28-BF15-948FB2182F33}|CalculadoraFatec.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE7D618B-BD51-4A28-BF15-948FB2182F33}|CalculadoraFatec.csproj|d:\\dev\\fatec\\projetos\\calculadora-fatec\\calculadorafatec\\src\\util\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE7D618B-BD51-4A28-BF15-948FB2182F33}|CalculadoraFatec.csproj|solutionrelative:src\\util\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE7D618B-BD51-4A28-BF15-948FB2182F33}|CalculadoraFatec.csproj|d:\\dev\\fatec\\projetos\\calculadora-fatec\\calculadorafatec\\src\\model\\fatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7D618B-BD51-4A28-BF15-948FB2182F33}|CalculadoraFatec.csproj|solutionrelative:src\\model\\fatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7D618B-BD51-4A28-BF15-948FB2182F33}|CalculadoraFatec.csproj|d:\\dev\\fatec\\projetos\\calculadora-fatec\\calculadorafatec\\src\\model\\concatenacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7D618B-BD51-4A28-BF15-948FB2182F33}|CalculadoraFatec.csproj|solutionrelative:src\\model\\concatenacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE7D618B-BD51-4A28-BF15-948FB2182F33}|CalculadoraFatec.csproj|d:\\dev\\fatec\\projetos\\calculadora-fatec\\calculadorafatec\\src\\model\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE7D618B-BD51-4A28-BF15-948FB2182F33}|CalculadoraFatec.csproj|solutionrelative:src\\model\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7D618B-BD51-4A28-BF15-948FB2182F33}|CalculadoraFatec.csproj|d:\\dev\\fatec\\projetos\\calculadora-fatec\\calculadorafatec\\src\\util\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7D618B-BD51-4A28-BF15-948FB2182F33}|CalculadoraFatec.csproj|solutionrelative:src\\util\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +46,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Concatenacao.cs",
+              "DocumentMoniker": "D:\\DEV\\fatec\\projetos\\calculadora-fatec\\CalculadoraFatec\\src\\Model\\Concatenacao.cs",
+              "RelativeDocumentMoniker": "src\\Model\\Concatenacao.cs",
+              "ToolTip": "D:\\DEV\\fatec\\projetos\\calculadora-fatec\\CalculadoraFatec\\src\\Model\\Concatenacao.cs",
+              "RelativeToolTip": "src\\Model\\Concatenacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:56:47.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Fatorial.cs",
+              "DocumentMoniker": "D:\\DEV\\fatec\\projetos\\calculadora-fatec\\CalculadoraFatec\\src\\Model\\Fatorial.cs",
+              "RelativeDocumentMoniker": "src\\Model\\Fatorial.cs",
+              "ToolTip": "D:\\DEV\\fatec\\projetos\\calculadora-fatec\\CalculadoraFatec\\src\\Model\\Fatorial.cs",
+              "RelativeToolTip": "src\\Model\\Fatorial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAMwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:38:55.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Menu.cs",
               "DocumentMoniker": "D:\\DEV\\fatec\\projetos\\calculadora-fatec\\CalculadoraFatec\\src\\Util\\Menu.cs",
               "RelativeDocumentMoniker": "src\\Util\\Menu.cs",
               "ToolTip": "D:\\DEV\\fatec\\projetos\\calculadora-fatec\\CalculadoraFatec\\src\\Util\\Menu.cs",
               "RelativeToolTip": "src\\Util\\Menu.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAkAAAABAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T14:07:19.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Calculadora.cs",
               "DocumentMoniker": "D:\\DEV\\fatec\\projetos\\calculadora-fatec\\CalculadoraFatec\\src\\Model\\Calculadora.cs",
               "RelativeDocumentMoniker": "src\\Model\\Calculadora.cs",
@@ -70,7 +104,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\DEV\\fatec\\projetos\\calculadora-fatec\\CalculadoraFatec\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAIAywDIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T14:03:00.731Z",
               "EditorCaption": ""

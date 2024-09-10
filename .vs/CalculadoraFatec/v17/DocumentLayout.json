@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEV\\fatec\\projetos\\calculadora-fatec\\CalculadoraFatec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7D618B-BD51-4A28-BF15-948FB2182F33}|CalculadoraFatec.csproj|d:\\dev\\fatec\\projetos\\calculadora-fatec\\calculadorafatec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7D618B-BD51-4A28-BF15-948FB2182F33}|CalculadoraFatec.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7D618B-BD51-4A28-BF15-948FB2182F33}|CalculadoraFatec.csproj|d:\\dev\\fatec\\projetos\\calculadora-fatec\\calculadorafatec\\src\\util\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7D618B-BD51-4A28-BF15-948FB2182F33}|CalculadoraFatec.csproj|solutionrelative:src\\util\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7D618B-BD51-4A28-BF15-948FB2182F33}|CalculadoraFatec.csproj|d:\\dev\\fatec\\projetos\\calculadora-fatec\\calculadorafatec\\src\\model\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7D618B-BD51-4A28-BF15-948FB2182F33}|CalculadoraFatec.csproj|solutionrelative:src\\model\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\DEV\\fatec\\projetos\\calculadora-fatec\\CalculadoraFatec\\src\\Util\\Menu.cs",
+              "RelativeDocumentMoniker": "src\\Util\\Menu.cs",
+              "ToolTip": "D:\\DEV\\fatec\\projetos\\calculadora-fatec\\CalculadoraFatec\\src\\Util\\Menu.cs",
+              "RelativeToolTip": "src\\Util\\Menu.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:07:19.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "D:\\DEV\\fatec\\projetos\\calculadora-fatec\\CalculadoraFatec\\src\\Model\\Calculadora.cs",
+              "RelativeDocumentMoniker": "src\\Model\\Calculadora.cs",
+              "ToolTip": "D:\\DEV\\fatec\\projetos\\calculadora-fatec\\CalculadoraFatec\\src\\Model\\Calculadora.cs",
+              "RelativeToolTip": "src\\Model\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:05:05.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV\\fatec\\projetos\\calculadora-fatec\\CalculadoraFatec\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DEV\\fatec\\projetos\\calculadora-fatec\\CalculadoraFatec\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:03:00.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

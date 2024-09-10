@@ -1,0 +1,14 @@
+D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\obj\Debug\net8.0\CalculadoraFatec.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\obj\Debug\net8.0\CalculadoraFatec.AssemblyInfoInputs.cache
+D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\obj\Debug\net8.0\CalculadoraFatec.AssemblyInfo.cs
+D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\obj\Debug\net8.0\CalculadoraFatec.csproj.CoreCompileInputs.cache
+D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\bin\Debug\net8.0\CalculadoraFatec.exe
+D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\bin\Debug\net8.0\CalculadoraFatec.deps.json
+D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\bin\Debug\net8.0\CalculadoraFatec.runtimeconfig.json
+D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\bin\Debug\net8.0\CalculadoraFatec.dll
+D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\bin\Debug\net8.0\CalculadoraFatec.pdb
+D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\obj\Debug\net8.0\CalculadoraFatec.dll
+D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\obj\Debug\net8.0\refint\CalculadoraFatec.dll
+D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\obj\Debug\net8.0\CalculadoraFatec.pdb
+D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\obj\Debug\net8.0\CalculadoraFatec.genruntimeconfig.cache
+D:\DEV\fatec\projetos\calculadora-fatec\CalculadoraFatec\obj\Debug\net8.0\ref\CalculadoraFatec.dll
